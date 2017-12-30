@@ -1,0 +1,31 @@
+{
+  "editor.fontFamily": "Fira Code",
+  "editor.fontSize": 15,
+  "editor.minimap.enabled": false,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.formatOnPaste": true,
+  "editor.links": false,
+  "editor.tabSize": 2,
+
+  "explorer.openEditors.visible": 0,
+  "explorer.autoReveal": false,
+
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.colorCustomizations": {
+    "editorIndentGuide.background": "#202528"
+  },
+
+  "window.zoomLevel": 0.9,
+
+  "prettier.singleQuote": true,
+
+  "emmet.includeLanguages": { "javascript": "javascriptreact" },
+  "emmet.triggerExpansionOnTab": true,
+
+  "atomKeymap.promptV3Features": true
+}
